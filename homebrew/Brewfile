@@ -1,0 +1,11 @@
+cask_args appdir: '/Applications'
+
+brew 'yarn'
+
+tap 'caskroom/cask'
+
+# JetBrains
+cask 'intellij-idea'
+cask 'webstorm'
+cask 'pycharm'
+cask 'datagrip'
