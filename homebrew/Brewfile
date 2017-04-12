@@ -9,3 +9,6 @@ cask 'intellij-idea'
 cask 'webstorm'
 cask 'pycharm'
 cask 'datagrip'
+
+# Database Client
+cask 'dbeaver-enterprise'
