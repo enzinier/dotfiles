@@ -1,14 +1,23 @@
 cask_args appdir: '/Applications'
 
-brew 'yarn'
-
 tap 'caskroom/cask'
+
+cask 'java'
+
+brew 'yarn'
+brew 'maven'
+brew 'gradle'
+brew 'lastpass-cli'
 
 # JetBrains
 cask 'intellij-idea'
 cask 'webstorm'
 cask 'pycharm'
-cask 'datagrip'
 
 # Database Client
 cask 'dbeaver-enterprise'
+
+cask 'google-chrome'
+cask 'sourcetree'
+cask 'atom'
+cask 'docker'
