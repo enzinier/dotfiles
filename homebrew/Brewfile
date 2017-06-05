@@ -9,6 +9,8 @@ brew 'maven'
 brew 'gradle'
 brew 'lastpass-cli'
 brew 'vagrant-completion'
+brew 'carthage'
+brew 'rclone'
 
 # JetBrains
 cask 'intellij-idea'
@@ -32,3 +34,4 @@ cask 'virtualbox-extension-pack'
 cask 'vagrant'
 cask 'vagrant-manager'
 cask 'zeplin'
+cask 'rclone-browser'
