@@ -1,3 +1,8 @@
+call plug#begin('~/.config/nvim/plugged')
+" Plugins will go here in the middle.
+Plug 'mhartington/oceanic-next'
+call plug#end()
+
 " enable syntax highlighting
 syntax enable
 
@@ -25,4 +30,14 @@ set showmatch
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
 
-set termguicolors
+" For Neovim 0.1.3 and 0.1.4
+let $NVIM_TUI_ENABLE_TRUE_COLOR=1
+
+" Or if you have Neovim >= 0.1.5
+if (has("termguicolors"))
+ set termguicolors
+endif
+
+" Theme
+syntax enable
+colorscheme OceanicNext
