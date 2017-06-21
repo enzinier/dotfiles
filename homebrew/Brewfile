@@ -11,6 +11,7 @@ brew 'lastpass-cli'
 brew 'vagrant-completion'
 brew 'carthage'
 brew 'rclone'
+brew 'percorna-toolkit'
 
 # JetBrains
 cask 'intellij-idea'
@@ -35,3 +36,4 @@ cask 'vagrant'
 cask 'vagrant-manager'
 cask 'zeplin'
 cask 'rclone-browser'
+cask 'tunnelblick'
