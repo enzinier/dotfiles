@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 tap 'caskroom/cask'
+tap 'neovim/neovim'
 
 cask 'java'
 
@@ -11,7 +12,8 @@ brew 'lastpass-cli'
 brew 'vagrant-completion'
 brew 'carthage'
 brew 'rclone'
-brew 'percorna-toolkit'
+brew 'percona-toolkit'
+brew 'neovim'
 
 # JetBrains
 cask 'intellij-idea'
