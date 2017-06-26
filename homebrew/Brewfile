@@ -14,6 +14,7 @@ brew 'carthage'
 brew 'rclone'
 brew 'percona-toolkit'
 brew 'neovim'
+brew 'tmux'
 
 # JetBrains
 cask 'intellij-idea'
@@ -38,3 +39,4 @@ cask 'vagrant-manager'
 cask 'zeplin'
 cask 'rclone-browser'
 cask 'tunnelblick'
+cask 'visual-studio-code'
