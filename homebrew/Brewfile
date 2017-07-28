@@ -14,6 +14,7 @@ brew 'carthage'
 brew 'rclone'
 brew 'percona-toolkit'
 brew 'neovim'
+brew 'gnu-sed', args" ["with-default-names"]
 
 # JetBrains
 cask 'intellij-idea'
