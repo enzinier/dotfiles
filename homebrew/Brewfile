@@ -21,9 +21,11 @@ brew 'm-cli'
 cask 'intellij-idea'
 cask 'webstorm'
 cask 'pycharm'
+cask 'android-studio'
 
 # Database Client
 cask 'dbeaver-enterprise'
+cask 'staruml'
 
 # Other Developer Tools
 cask 'sourcetree'
@@ -34,6 +36,7 @@ cask 'vagrant'
 cask 'vagrant-manager'
 cask 'tunnelblick'
 cask 'visual-studio-code'
+cask 'android-platform-tools'
 
 # Security
 cask 'keybase'
