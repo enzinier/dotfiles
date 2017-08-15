@@ -23,16 +23,27 @@ cask 'pycharm'
 # Database Client
 cask 'dbeaver-enterprise'
 
+# Other Developer Tools
 cask 'sourcetree'
 cask 'docker'
-cask 'appcleaner'
-cask 'shiftit'
-cask 'adobe-acrobat-reader'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'vagrant'
 cask 'vagrant-manager'
-cask 'zeplin'
-cask 'rclone-browser'
 cask 'tunnelblick'
 cask 'visual-studio-code'
+
+# Utilities
+cask 'shiftit'
+cask 'appcleaner'
+
+# Cloud Drive
+cask 'amazon-drive'
+cask 'rclone-browser'
+
+# Graphic Design
+cask 'gimp'
+cask 'zeplin'
+
+# Office
+cask 'adobe-acrobat-reader'
