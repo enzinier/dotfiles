@@ -15,6 +15,7 @@ brew 'percona-toolkit'
 brew 'neovim'
 brew 'gnu-sed', args: ["with-default-names"]
 brew 'watchman'
+brew 'm-cli'
 
 # JetBrains
 cask 'intellij-idea'
@@ -33,6 +34,9 @@ cask 'vagrant'
 cask 'vagrant-manager'
 cask 'tunnelblick'
 cask 'visual-studio-code'
+
+# Security
+cask 'keybase'
 
 # Utilities
 cask 'shiftit'
