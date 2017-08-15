@@ -16,6 +16,7 @@ brew 'neovim'
 brew 'gnu-sed', args: ["with-default-names"]
 brew 'watchman'
 brew 'm-cli'
+brew 'python3'
 
 # JetBrains
 cask 'intellij-idea'
