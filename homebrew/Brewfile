@@ -2,6 +2,7 @@ cask_args appdir: '/Applications'
 
 tap 'caskroom/cask'
 tap 'neovim/neovim'
+tap 'caskroom/drivers'
 
 cask 'java'
 
@@ -18,6 +19,9 @@ brew 'watchman'
 brew 'm-cli'
 brew 'python3'
 
+# Web Browser
+cask 'google-chrome'
+
 # JetBrains
 cask 'intellij-idea'
 cask 'webstorm'
@@ -25,7 +29,7 @@ cask 'pycharm'
 cask 'android-studio'
 
 # Database Client
-cask 'dbeaver-enterprise'
+cask 'dbeaver-community'
 cask 'staruml'
 
 # Other Developer Tools
@@ -39,8 +43,14 @@ cask 'tunnelblick'
 cask 'visual-studio-code'
 cask 'android-platform-tools'
 
+# Remote
+cask 'nomachine'
+
 # Security
 cask 'keybase'
+
+# Drivers
+cask 'logitech-options'
 
 # Utilities
 cask 'shiftit'
