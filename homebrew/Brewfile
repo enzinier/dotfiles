@@ -55,6 +55,7 @@ cask 'logitech-options'
 # Utilities
 cask 'shiftit'
 cask 'appcleaner'
+cask 'namechanger'
 
 # Cloud Drive
 cask 'amazon-drive'
