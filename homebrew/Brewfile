@@ -18,6 +18,7 @@ brew 'gnu-sed', args: ["with-default-names"]
 brew 'watchman'
 brew 'm-cli'
 brew 'python3'
+brew 'git-flow'
 
 # Web Browser
 cask 'google-chrome'
