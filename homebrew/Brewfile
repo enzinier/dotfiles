@@ -3,6 +3,7 @@ cask_args appdir: '/Applications'
 tap 'caskroom/cask'
 tap 'neovim/neovim'
 tap 'caskroom/drivers'
+tap 'caskroom/fonts'
 
 cask 'java'
 
@@ -68,3 +69,8 @@ cask 'zeplin'
 
 # Office
 cask 'adobe-acrobat-reader'
+
+# Fonts
+cask 'font-dejavu-sans-mono-for-powerline'
+cask 'font-source-code-pro'
+cask 'font-source-code-pro-for-powerline'
