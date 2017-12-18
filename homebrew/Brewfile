@@ -31,8 +31,8 @@ cask 'pycharm'
 cask 'android-studio'
 
 # Database Client
-cask 'dbeaver-community'
-cask 'staruml'
+#cask 'dbeaver-community'
+#cask 'staruml'
 
 # Other Developer Tools
 cask 'sourcetree'
@@ -43,7 +43,7 @@ cask 'vagrant'
 cask 'vagrant-manager'
 cask 'tunnelblick'
 cask 'visual-studio-code'
-cask 'android-platform-tools'
+#cask 'android-platform-tools'
 
 # Remote
 cask 'nomachine'
@@ -65,12 +65,11 @@ cask 'rclone-browser'
 
 # Graphic Design
 cask 'gimp'
-cask 'zeplin'
+#cask 'zeplin'
 
 # Office
-cask 'adobe-acrobat-reader'
+#cask 'adobe-acrobat-reader'
 
 # Fonts
-cask 'font-dejavu-sans-mono-for-powerline'
+cask 'font-dejavu-sans'
 cask 'font-source-code-pro'
-cask 'font-source-code-pro-for-powerline'
