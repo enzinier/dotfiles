@@ -7,7 +7,7 @@ tap 'caskroom/fonts'
 
 cask 'java'
 
-brew 'yarn'
+brew 'node@8'
 brew 'maven'
 brew 'gradle'
 brew 'vagrant-completion'
@@ -28,6 +28,7 @@ cask 'google-chrome'
 cask 'intellij-idea'
 cask 'webstorm'
 cask 'pycharm'
+cask 'datagrip'
 cask 'android-studio'
 
 # Database Client
