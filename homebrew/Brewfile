@@ -62,7 +62,7 @@ cask 'namechanger'
 
 # Cloud Drive
 cask 'amazon-drive'
-cask 'rclone-browser'
+cask 'google-drive-file-stream'
 
 # Graphic Design
 cask 'gimp'
