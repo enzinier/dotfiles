@@ -8,14 +8,14 @@ tap 'caskroom/fonts'
 cask 'java'
 
 brew 'node@8'
-brew 'maven'
+#brew 'maven'
 brew 'gradle'
-brew 'vagrant-completion'
-brew 'carthage'
-brew 'rclone'
-brew 'percona-toolkit'
+#brew 'vagrant-completion'
+#brew 'carthage'
+#brew 'rclone'
+#brew 'percona-toolkit'
 brew 'neovim'
-brew 'gnu-sed', args: ["with-default-names"]
+#brew 'gnu-sed', args: ["with-default-names"]
 brew 'watchman'
 brew 'm-cli'
 brew 'python3'
@@ -25,11 +25,11 @@ brew 'git-flow'
 cask 'google-chrome'
 
 # JetBrains
-cask 'intellij-idea'
-cask 'webstorm'
-cask 'pycharm'
-cask 'datagrip'
-cask 'android-studio'
+#cask 'intellij-idea'
+#cask 'webstorm'
+#cask 'pycharm'
+#cask 'datagrip'
+#cask 'android-studio'
 
 # Database Client
 #cask 'dbeaver-community'
@@ -38,34 +38,35 @@ cask 'android-studio'
 # Other Developer Tools
 cask 'sourcetree'
 cask 'docker'
-cask 'virtualbox'
-cask 'virtualbox-extension-pack'
-cask 'vagrant'
-cask 'vagrant-manager'
-cask 'tunnelblick'
+#cask 'virtualbox'
+#cask 'virtualbox-extension-pack'
+#cask 'vagrant'
+#cask 'vagrant-manager'
+#cask 'tunnelblick'
 cask 'visual-studio-code'
 #cask 'android-platform-tools'
+cask 'gpg-suite'
 
 # Remote
-cask 'nomachine'
+#cask 'nomachine'
 
 # Security
 cask 'keybase'
 
 # Drivers
-cask 'logitech-options'
+#cask 'logitech-options'
 
 # Utilities
 cask 'shiftit'
 cask 'appcleaner'
-cask 'namechanger'
+#cask 'namechanger'
 
 # Cloud Drive
-cask 'amazon-drive'
+#cask 'amazon-drive'
 cask 'google-drive-file-stream'
 
 # Graphic Design
-cask 'gimp'
+#cask 'gimp'
 #cask 'zeplin'
 
 # Office
@@ -74,3 +75,4 @@ cask 'gimp'
 # Fonts
 cask 'font-dejavu-sans'
 cask 'font-source-code-pro'
+cask 'font-d2coding'
